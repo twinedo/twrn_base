@@ -1,3 +1,6 @@
+# What's included
+1. React Native version start from 0.74.2
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
